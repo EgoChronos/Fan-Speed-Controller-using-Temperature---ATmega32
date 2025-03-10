@@ -10,5 +10,5 @@ o	Utilized: GPIO, ADC, PWM, LM35 Sensor, LCD, and DC Motor.
 
 o	Microcontroller: ATmega32.
 
-You can read the full requirments in the attached file.
+You can read the full requirements in the attached file.
 Thank you.
